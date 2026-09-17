@@ -3,7 +3,7 @@
 **MedDiary** — это *лёгкое* консольное приложение для ведения и анализа медицинских записей пациентов. 
 Поддерживает **фильтрацию по возрасту и полу**, **оценку рисков** и **построение статистики** по диагнозам и показателям.
 
-![Status](https://yandex.ru/images/touch/search?pos=0&img_url=https%3A%2F%2Fi1.sndcdn.com%2Favatars-000602118396-k0nvvk-original.jpg&text=картинка+инвитро+&rpt=simage&lr=20719)
+![Status](https://avatars.mds.yandex.net/i?id=b8de397470f71acf79610e01c51e1157fc572cbd-5476551-images-thumbs&n=13)
 
 ## Оглавление
 
